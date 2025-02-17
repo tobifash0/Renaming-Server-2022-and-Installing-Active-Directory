@@ -16,18 +16,14 @@ Now that we have Windows Server 2022 set up, we can proceed with installing Acti
 
 <br>
 
-2. 
-![68747470733a2f2f692e696d6775722e636f6d2f75596c756a66342e706e67](https://github.com/user-attachments/assets/b94f2754-3e3b-4f4e-9fdd-df0906a064f0)
+2.
+![68747470733a2f2f692e696d6775722e636f6d2f75596c756a66342e706e67](https://github.com/user-attachments/assets/dbc25f2c-a414-49f9-9ea4-dc9bf3909910)
+<br>
+
 In the "About" section, scroll down until you see "Rename this PC (Advanced)" and click on it.
 
 <br>
-
-3.
-![68747470733a2f2f692e696d6775722e636f6d2f75596c756a66342e706e67](https://github.com/user-attachments/assets/dbc25f2c-a414-49f9-9ea4-dc9bf3909910)
-
-Select “Change”.
-<br>
-4. 
+3. 
 ![68747470733a2f2f692e696d6775722e636f6d2f47634e544851442e706e67](https://github.com/user-attachments/assets/ec1b5699-95e0-4909-a6cc-f0975c6d7fb9)
 
 We will rename the computer to "Server2022" and then click "OK." A prompt will appear asking you to restart your virtual machine, which is normal. Click "OK," then select "Restart Now" to apply the changes.
