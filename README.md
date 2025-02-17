@@ -101,7 +101,7 @@ Now that we have Windows Server 2022 set up, we can proceed with installing Acti
 ![68747470733a2f2f692e696d6775722e636f6d2f466f69587047372e706e67 (1)](https://github.com/user-attachments/assets/b60ac04c-b146-427d-80ec-3ba1a020205f)
 
 <br>
-14. Click "Next," then choose "Role-based or feature-based installation" and click "Next" again to proceed.
+13. Click "Next," then choose "Role-based or feature-based installation" and click "Next" again to proceed.
 
 <br>
 
@@ -109,7 +109,7 @@ Now that we have Windows Server 2022 set up, we can proceed with installing Acti
 
 <br>
 
-15. Select "Active Directory Domain Services," then click "Add Features" when prompted and click next.
+14. Select "Active Directory Domain Services," then click "Add Features" when prompted and click next.
 
 <br>
 
@@ -118,7 +118,57 @@ Now that we have Windows Server 2022 set up, we can proceed with installing Acti
 
 <br>
 
-16. 
+15. After that, click "Next" to continue.
+
+<br>
+
+![68747470733a2f2f692e696d6775722e636f6d2f426749367441322e706e67](https://github.com/user-attachments/assets/c766a576-f8aa-4c27-805f-f184628ce8e8)
+
+<br>
+
+16. Finally select “Install”.
+
+<br>
+
+![68747470733a2f2f692e696d6775722e636f6d2f4a5775443132562e706e67](https://github.com/user-attachments/assets/93e2be01-c09b-4c6d-959a-1bc1fd8f82bd)
+
+<br> 
+
+17. Select “Promote this server to a domain controller”.
+
+<br>
+
+![68747470733a2f2f692e696d6775722e636f6d2f676964454449692e706e67](https://github.com/user-attachments/assets/dfb26ae2-c8c2-482d-9c6f-d466d4da4db6)
+
+<br> 
+
+
+18. Select "Add a new forest" and enter "tobifash.com" as the root domain name. Then click "Next" to proceed.
+
+
+<br> 
+
+<img width="542" alt="Screenshot 2025-02-14 at 12 02 51 AM" src="https://github.com/user-attachments/assets/607fab91-afc9-4db4-9f73-09e5ecb97eff" />
+
+<br>
+
+19. Create a password for our Directory Service Restore Mode (DSRM) then click “Next”.
+
+<br>
+
+<img width="542" alt="Screenshot 2025-02-14 at 12 03 41 AM" src="https://github.com/user-attachments/assets/2869f9c4-838d-4de6-ba10-f8f4aa4ed8f2" />
+
+<br>
+
+20. We can uncheck “Create DNS delegation” then click “Next” then “Install”.
+<br>
+
+![68747470733a2f2f692e696d6775722e636f6d2f627333337a524f2e706e67](https://github.com/user-attachments/assets/c38cdd0d-abae-4728-a5a2-37ab47bfa057)
+
+
+
+
+
 
 
 
