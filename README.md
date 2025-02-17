@@ -165,6 +165,34 @@ Now that we have Windows Server 2022 set up, we can proceed with installing Acti
 
 ![68747470733a2f2f692e696d6775722e636f6d2f627333337a524f2e706e67](https://github.com/user-attachments/assets/c38cdd0d-abae-4728-a5a2-37ab47bfa057)
 
+<br>
+21. Click “Install”.
+<br>
+
+![68747470733a2f2f692e696d6775722e636f6d2f627333337a524f2e706e67](https://github.com/user-attachments/assets/1a4dfbbb-59ea-4f0f-bf3f-28437283c2e5)
+
+<br>
+
+22. After this process, the virtual machine will restart to install Active Directory Domain Services. Once the restart is complete, sign back in by selecting "Input" and clicking the "Ctrl + Alt + Del" button. You will notice that the domain controller is now listed as "Administrator." Go ahead and sign in to your account using the domain credentials.
+
+<br>
+
+<img width="1436" alt="Screenshot 2025-02-13 at 4 56 26 PM" src="https://github.com/user-attachments/assets/671958e1-62d2-41d6-9d1e-a97ad01f433e" />
+
+<br>
+
+23. Once signed in, with Server Manager open, click on "Tools" in the top right corner, then select "Active Directory Users and Computers" from the dropdown menu.
+
+<br>
+
+![68747470733a2f2f692e696d6775722e636f6d2f61613237774a792e706e67](https://github.com/user-attachments/assets/85fd3ddc-355c-46b0-96e8-6231eb51957c)
+
+<br> 
+
+24. Congratulations we have successfully created a domain controller (SimoTech.com) with Active Directory installed!
+
+<br> 
+
 
 
 
