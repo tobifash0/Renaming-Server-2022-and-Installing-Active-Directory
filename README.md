@@ -31,6 +31,7 @@ Now that we have Windows Server 2022 set up, we can proceed with installing Acti
 4. Select “Change”.
 
 <br>
+
 ![68747470733a2f2f692e696d6775722e636f6d2f47634e544851442e706e67 (1)](https://github.com/user-attachments/assets/f2b11d17-ec95-4581-962e-85bf8913fec7)
 
 <br>
