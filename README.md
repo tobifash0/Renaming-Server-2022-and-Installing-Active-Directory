@@ -15,7 +15,9 @@ Now that we have Windows Server 2022 set up, we can proceed with installing Acti
 ![68747470733a2f2f692e696d6775722e636f6d2f5876656e6d42372e706e67](https://github.com/user-attachments/assets/6870e688-99a2-452e-ac1b-222367757f99)
 
 <br>
+
 ![68747470733a2f2f692e696d6775722e636f6d2f75596c756a66342e706e67](https://github.com/user-attachments/assets/d969f7ba-ddcd-4b4a-8e36-76ab61ff7c34)
+
 <br>
 2.
 
