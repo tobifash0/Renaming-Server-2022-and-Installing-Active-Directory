@@ -98,23 +98,25 @@ Now that we have Windows Server 2022 set up, we can proceed with installing Acti
 
 <br>
 
-![68747470733a2f2f692e696d6775722e636f6d2f354a66666939662e706e67](https://github.com/user-attachments/assets/86dd8148-a7b6-45a8-bddc-0e50d7b2e31b)
+![68747470733a2f2f692e696d6775722e636f6d2f466f69587047372e706e67 (1)](https://github.com/user-attachments/assets/b60ac04c-b146-427d-80ec-3ba1a020205f)
 
 <br>
 14. Click "Next," then choose "Role-based or feature-based installation" and click "Next" again to proceed.
 
 <br>
 
-![68747470733a2f2f692e696d6775722e636f6d2f354a66666939662e706e67](https://github.com/user-attachments/assets/ab7da4d7-1f68-4ad5-9465-30e1e53e9349)
+![68747470733a2f2f692e696d6775722e636f6d2f474b686b5a434d2e706e67](https://github.com/user-attachments/assets/47a22314-b991-4833-b360-5b25e7e3c221)
 
 <br>
 
-15.  Click "Next" again to proceed.
+15. Select "Active Directory Domain Services," then click "Add Features" when prompted and click next.
 
 <br>
 
-![68747470733a2f2f692e696d6775722e636f6d2f4c5565627538482e706e67 (1)](https://github.com/user-attachments/assets/16dfee87-d6a0-4f74-b44f-b535fdf1a6e1)
+![68747470733a2f2f692e696d6775722e636f6d2f4d4d435859627a2e706e67](https://github.com/user-attachments/assets/d4ea2f41-64ef-4e9a-983d-94c166575e96)
 
+
+<br>
 
 16. 
 
