@@ -1,4 +1,4 @@
-# ROverview: Lab 2 Renaming Windows Server 2022 and Installing Active Directory
+# Overview: Lab 2 Renaming Windows Server 2022 and Installing Active Directory
 In this home lab, I will be demonstrating the process of Renaming Server 2022 and Installing Active Directory in a home lab environment. I'll be using VirtualBox and be focusing on simulating a real-world IT setup. It serves as a practical demonstration of key IT administrative tasks, such as configuring server names, setting up Active Directory, and managing domain services.
 
 ## Objectives
@@ -169,7 +169,8 @@ Now that we have Windows Server 2022 set up, we can proceed with installing Acti
 21. Click “Install”.
 <br>
 
-![68747470733a2f2f692e696d6775722e636f6d2f627333337a524f2e706e67](https://github.com/user-attachments/assets/1a4dfbbb-59ea-4f0f-bf3f-28437283c2e5)
+![68747470733a2f2f692e696d6775722e636f6d2f437a45317554312e706e67 (1)](https://github.com/user-attachments/assets/585061b7-4b0f-447d-9197-1255f43b3de0)
+
 
 <br>
 
@@ -192,6 +193,14 @@ Now that we have Windows Server 2022 set up, we can proceed with installing Acti
 24. Congratulations we have successfully created a domain controller (SimoTech.com) with Active Directory installed!
 
 <br> 
+
+<img width="542" alt="Screenshot 2025-02-14 at 12 15 22 AM" src="https://github.com/user-attachments/assets/91d93516-9c22-491c-aed1-68724842fcdb" />
+
+<br>
+
+
+👉 Next Lab 3 : Active Directory Account Creation, CMD Commands
+
 
 
 
