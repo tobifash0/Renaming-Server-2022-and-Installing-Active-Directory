@@ -174,11 +174,11 @@ Now that we have Windows Server 2022 set up, we can proceed with installing Acti
 
 <br>
 
-22. After this process, the virtual machine will restart to install Active Directory Domain Services. Once the restart is complete, sign back in by selecting "Input" and clicking the "Ctrl + Alt + Del" button. You will notice that the domain controller is now listed as "Administrator." Go ahead and sign in to your account using the domain credentials.
+22. After this process, the virtual machine will restart to install Active Directory Domain Services. Once the restart is complete, sign back in by selecting "Input" and clicking the "Ctrl + Alt + Del" button. You will notice that the domain controller is now listed as "Tobifash/Administrator." Go ahead and sign in to your account using the domain credentials.
 
 <br>
 
-<img width="1436" alt="Screenshot 2025-02-13 at 4 56 26 PM" src="https://github.com/user-attachments/assets/671958e1-62d2-41d6-9d1e-a97ad01f433e" />
+<img width="633" alt="Screenshot 2025-02-17 at 2 04 20 AM" src="https://github.com/user-attachments/assets/a83d8f04-f41e-4738-ada4-d689daa7785b" />
 
 <br>
 
