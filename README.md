@@ -81,15 +81,16 @@ Now that we have Windows Server 2022 set up, we can proceed with installing Acti
 
 <br>
 
-![68747470733a2f2f692e696d6775722e636f6d2f70764f4a5a70432e706e67](https://github.com/user-attachments/assets/ff81d999-e06d-4e4c-8b84-b4f0ddff611f)
+![68747470733a2f2f692e696d6775722e636f6d2f345450394456542e706e67 (1)](https://github.com/user-attachments/assets/17aff466-a5aa-48eb-abae-41a3457f98eb)
 
 <br>
 
 11. In the "Performance Options" window, select "Adjust for best performance," then click "OK" to apply the changes.
 
     <br>
+    
+![68747470733a2f2f692e696d6775722e636f6d2f354a66666939662e706e67 (1)](https://github.com/user-attachments/assets/8457bbef-32f8-4f03-9f1b-53aeba85ec91)
 
-![413719904-86dd8148-a7b6-45a8-bddc-0e50d7b2e31b](https://github.com/user-attachments/assets/740064c2-f658-4b3a-a426-029ed47b2ade)
 
 <br>
 
