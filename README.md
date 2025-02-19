@@ -199,7 +199,7 @@ Now that we have Windows Server 2022 set up, we can proceed with installing Acti
 <br>
 
 
-👉 Next Lab 3 : Active Directory Account Creation, CMD Commands
+👉 Next Lab 3 : [Active Directory Account Creation, CMD Commands](https://github.com/tobifash0/Active-Directory-Account-Creation-CMD-Commands)
 
 
 
